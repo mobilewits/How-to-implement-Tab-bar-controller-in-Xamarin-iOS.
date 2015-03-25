@@ -1,0 +1,15 @@
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/39-view-45.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/41-view-49.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-37.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/actool/partial-info.plist
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/bin/iPhone/Debug/TabbarController.iOS.exe.mdb
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/bin/iPhone/Debug/TabbarController.iOS.exe
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/TabbarController.iOS.exe
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhone/Debug/TabbarController.iOS.exe.mdb

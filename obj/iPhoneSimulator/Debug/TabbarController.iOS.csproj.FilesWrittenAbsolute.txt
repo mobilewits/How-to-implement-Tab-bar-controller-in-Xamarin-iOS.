@@ -1,0 +1,53 @@
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/39-view-45.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/41-view-49.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-37.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/bin/iPhoneSimulator/Debug/TabbarController.iOS.exe.mdb
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/bin/iPhoneSimulator/Debug/TabbarController.iOS.exe
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/TabbarController.iOS.exe
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/TabbarController.iOS.exe.mdb
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/195-view-196.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-195.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/316-view-322.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/318-view-326.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-314.nib
+/Users/harry/Desktop/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/633-view-634.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/195-view-196.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/316-view-322.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/318-view-326.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/633-view-634.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-195.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-314.nib
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/bin/iPhoneSimulator/Debug/TabbarController.iOS.exe.mdb
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/bin/iPhoneSimulator/Debug/TabbarController.iOS.exe
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/TabbarController.iOS.exe
+/Users/Harry/Desktop/dhaval/Anil/xamarin_tutorials/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/TabbarController.iOS.exe.mdb
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/195-view-196.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/316-view-322.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/318-view-326.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/633-view-634.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-195.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-314.nib
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/bin/iPhoneSimulator/Debug/TabbarController.iOS.exe.mdb
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/bin/iPhoneSimulator/Debug/TabbarController.iOS.exe
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/TabbarController.iOS.exe
+/Volumes/HP V215B/Live/IOS/TabbarController/TabbarController.iOS/obj/iPhoneSimulator/Debug/TabbarController.iOS.exe.mdb
